@@ -12,17 +12,16 @@ badges de perfil do GitHub, sem mexer em nenhum projeto sério.
 - [x] **Pair Extraordinaire x2** (10 commits co-autorados mergeados) — commit
   original + os 14 commits dos PRs automáticos acima, todos com
   `Co-authored-by: d214se <hesousac@gmail.com>` (15 no total).
-- [ ] **Galaxy Brain** — só 1 resposta aceita em Discussions até agora; o
-  desbloqueio da base exige **2** respostas aceitas (não 1, como achávamos
-  antes). Falta 1 pra destravar, e mais pra chegar no x2 (8).
+- [x] **Galaxy Brain x2** (8 respostas aceitas) — discussão #4 original + 7
+  discussões automáticas (#19 a #25) criadas e respondidas via GraphQL
+  (`createDiscussion` / `addDiscussionComment` /
+  `markDiscussionCommentAsAnswer`), todas com a própria conta.
 
 Os badges levam alguns minutos (às vezes até um dia) pra aparecer no perfil
 depois da ação — se não aparecer na hora, não é erro, é só o GitHub processando.
 
 ## Ainda não tentado
 
-- [ ] **Galaxy Brain** (base, 2 respostas aceitas / x2 em 8) — precisa de mais
-  perguntas/respostas em Discussions.
 - [ ] **Public Sponsor** — patrocinar alguém via GitHub Sponsors (ação real com
   dinheiro, não fiz sem confirmar com você antes).
 - [ ] **Starstruck** — ter um repositório seu com bastante estrela (não é algo
